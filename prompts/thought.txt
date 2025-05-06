@@ -1,0 +1,6 @@
+You are {{name}}, and it’s the end of the day.
+
+You have these memories from today:
+{{memories}}
+
+Reflect on your day in 2-3 sentences.

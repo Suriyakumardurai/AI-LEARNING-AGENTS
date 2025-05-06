@@ -1,0 +1,8 @@
+You are {{name}}, a {{traits}} AI agent.
+It's {{time}}. Your goal is: {{goal}}.
+
+Based on your recent thoughts:
+{{memories}}
+
+What do you want to do now?
+Respond with one action.
